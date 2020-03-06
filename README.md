@@ -3,5 +3,7 @@ GitHub Book - testovani
 
 ## extended
 - jedna
+  - a
+  - b
 - dva
 
