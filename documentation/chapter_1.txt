@@ -1,1 +1,5 @@
 Novy soubor pro testovani GitHubu.
+- zmena
+  - as
+  -ad
+- OK
